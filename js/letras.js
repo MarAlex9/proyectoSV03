@@ -7,7 +7,7 @@ const resolver = () => {
     document.querySelector('#btnResolver').remove();
     const typed = new Typed('.texto', {
         strings: [
-            "9x - 7i > 9x - 21u<br>-7 > -21u<br>7 &lt; 21u<br><span class='fw-bold'>i &lt; 3 u</span> <br><span class='fw-bold'>DanLest</span>",
+            "9x - 7i > 9x - 21u<br>-7 > -21u<br>7 &lt; 21u<br><span>i &lt; 3 u</span> <br><span class='fw-bold'>R = Bélen??</span>",
         ],
         typeSpeed: 65,
         showCursor: false,
